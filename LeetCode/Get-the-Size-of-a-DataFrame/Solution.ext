@@ -1,0 +1,10 @@
+DataFrame players:
++-------------+--------+
+| Column Name | Type   |
++-------------+--------+
+| player_id   | int    |
+| name        | object |
+| age         | int    |
+| position    | object |
+| ...         | ...    |
++-------------+--------+
